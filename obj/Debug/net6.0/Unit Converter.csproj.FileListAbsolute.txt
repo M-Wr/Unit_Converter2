@@ -1,0 +1,15 @@
+C:\Users\c86984b\source\repos\Unit Converter\bin\Debug\net6.0\Unit Converter.exe
+C:\Users\c86984b\source\repos\Unit Converter\bin\Debug\net6.0\Unit Converter.deps.json
+C:\Users\c86984b\source\repos\Unit Converter\bin\Debug\net6.0\Unit Converter.runtimeconfig.json
+C:\Users\c86984b\source\repos\Unit Converter\bin\Debug\net6.0\Unit Converter.dll
+C:\Users\c86984b\source\repos\Unit Converter\bin\Debug\net6.0\Unit Converter.pdb
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.csproj.AssemblyReference.cache
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.AssemblyInfoInputs.cache
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.AssemblyInfo.cs
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.csproj.CoreCompileInputs.cache
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.dll
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\refint\Unit Converter.dll
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.pdb
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\Unit Converter.genruntimeconfig.cache
+C:\Users\c86984b\source\repos\Unit Converter\obj\Debug\net6.0\ref\Unit Converter.dll

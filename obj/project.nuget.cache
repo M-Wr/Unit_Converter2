@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "toVwtjzWKxSo7wtNr0DkfeHnCK4lEeqdz01/PSu1iBHtmS3UDF7ogtgpom6HFjzIFw2YGVk3SQKoO2JUjnNosw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c86984b\\source\\repos\\Unit Converter\\Unit Converter.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget-mirror-dci-nuget-repo-group-solutions-uk-shared.apps.internal.appcanvas.net/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
